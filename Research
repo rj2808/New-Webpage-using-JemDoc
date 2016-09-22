@@ -1,17 +1,12 @@
-# jemdoc: menu{MENU}{research.html}, nofooter  
-==Rakshit Jain 
+# jemdoc: menu{MENU}{research.html}, nofooter
+==Research Experience
 
-~~~
-{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://rj2808.github.io}
-Second year Undergraduate, Engineering Physics program\n [http://phy.iitb.ac.in Physics Department], \n[http://www.iitb.ac.in Indian Institute of Technology Bombay] \n
-Mumbai, India \n 
-Phone: \+8828294852 \n
-E-post: /rakshit.jain/ \[@\] iitb \[DOT\] ac \[DOT\] in
-~~~
 
-== About me
- I am a Quantum Mechanics (This might look naive) and Signal Processing enthusiast, I have previously modeled Adaptive noise Cancelation using ANFIS function in Matlab , tried to build a spark chamber and a Tesla coil. In my free time, one will find me either swimming or just doing timepass with friends.
-\n
-\n
-You can find my CV [cv.pdf here].
-
+== Projects
+I have been fortunate to work on various problems till now which have fascinated me and my my understanding.
+\n Some of the projects I have worked on till now are -
+  - [avian.html Modeling the role of Coherence in the Avian Compass model]
+  - [genereg.html Role of miRNA regulation in gene expression]
+  - [mos2.html Studying Electrical and Optical properties of MoS_2]
+  - [photo.html Exciton energy transfer in Photosynthesis]
+  - [spark.html Prototype Spark Chamber]

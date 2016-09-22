@@ -1,17 +1,21 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
-==Rakshit Jain 
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Rakshit Jain
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://rj2808.github.io}
-Second year Undergraduate, Engineering Physics program\n [http://phy.iitb.ac.in Physics Department], \n[http://www.iitb.ac.in Indian Institute of Technology Bombay] \n
-Mumbai, India \n 
+{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://home.iitb.ac.in\~rakshit.jain}
+Undergraduate,\n [http://phy.iitb.ac.in Physics Department], \n[http://www.iitb.ac.in Indian Institute of Technology Bombay] \n
+Mumbai, India \n
 Phone: \+8828294852 \n
 E-post: /rakshit.jain/ \[@\] iitb \[DOT\] ac \[DOT\] in
 ~~~
 
-== About me
- I am a Quantum Mechanics (This might look naive) and Signal Processing enthusiast, I have previously modeled Adaptive noise Cancelation using ANFIS function in Matlab , tried to build a spark chamber and a Tesla coil. In my free time, one will find me either swimming or just doing timepass with friends.
-\n
-\n
-You can find my CV [cv.pdf here].
-
+== Brief Biography
+I am a third year undergraduate pursuing B.tech in Engineering Physics with a minor in Computer Science and honors in Physics.
+\n In my free time you will mostly find me reading papers on Quantum Information or Fundamentals of Physics
+\n I hail from the city of [http://www.indore.nic.in/ Indore] famous for its food and people.
+== Research Interests
+I am passionate about Device Physics, Theoretical and Experimental aspects of Quantum Information and coherence ,
+\n Stochastic Modeling and Theoretical Computer Science.
+Find more about my projects [research.html here]
+== Curriculum Vitae
+Tired of going through the whole webpage, you'll find my CV [cv.pdf here]
